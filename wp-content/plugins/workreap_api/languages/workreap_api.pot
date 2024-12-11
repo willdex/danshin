@@ -1,0 +1,1659 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Workreap Mobile APP API\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-04 05:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1\n"
+"X-Domain: workreap_api"
+
+#: hooks/hooks.php:498
+msgid "#"
+msgstr ""
+
+#: admin/partials/functions.php:143 admin/partials/functions.php:190
+#: admin/partials/functions.php:252
+#, php-format
+msgctxt "%s = human-readable time difference"
+msgid "%s ago"
+msgstr ""
+
+#: lib/api/freelancer-dashboard.php:1933
+#, php-format
+msgid "%s Per hour rate (for %s hours)"
+msgstr ""
+
+#: lib/api/user.php:1507
+msgid "A link has been sent, please check your email."
+msgstr ""
+
+#: lib/api/profile_setting.php:4377
+msgid "Access is disabled."
+msgstr ""
+
+#: lib/api/profile_setting.php:2348
+msgid "Account is updated successfully."
+msgstr ""
+
+#: lib/api/get_jobs.php:3069
+msgid "Action does not perform"
+msgstr ""
+
+#: lib/api/get_jobs.php:3108
+msgid "Add dilivery date"
+msgstr ""
+
+#: lib/api/get_jobs.php:3107
+msgid "Add quote price"
+msgstr ""
+
+#: lib/api/services.php:1034
+msgid "Addon Service Service price is required"
+msgstr ""
+
+#: lib/api/services.php:1032
+msgid "Addon Service title is required"
+msgstr ""
+
+#: lib/api/services.php:1203
+msgid "Addons service ID is required"
+msgstr ""
+
+#: lib/api/services.php:471
+msgid "Addons Service price is required"
+msgstr ""
+
+#: lib/api/services.php:470
+msgid "Addons Service title is required"
+msgstr ""
+
+#: lib/api/get_jobs.php:991 lib/api/profile_setting.php:2854
+#: lib/api/user.php:2554
+msgid "Address is required"
+msgstr ""
+
+#: lib/api/favourites.php:71
+msgid "All saved items have been removed"
+msgstr ""
+
+#: lib/api/user.php:1759
+msgid "All the fields are required"
+msgstr ""
+
+#. Author of the plugin
+msgid "Amento Tech"
+msgstr ""
+
+#: hooks/hooks.php:502 hooks/hooks.php:566
+msgid "Amount"
+msgstr ""
+
+#: lib/api/proposal.php:487
+msgid "Amount field is required"
+msgstr ""
+
+#: lib/api/employer-dashboard.php:2046 lib/api/get_jobs.php:854
+msgid "Amount per hour"
+msgstr ""
+
+#: mobile-checkout/mobile-checkout.php:445
+msgid "Apartment, suite, unit etc (optional)"
+msgstr ""
+
+#: mobile-checkout/mobile-checkout.php:434
+msgid "Apartment, suite, unit etc. (optional)"
+msgstr ""
+
+#: lib/api/portfolios.php:216
+msgid "At-least one portfolio image is required"
+msgstr ""
+
+#: includes/class-workreap-jwt.php:127
+msgid "Authorization Token does not found!"
+msgstr ""
+
+#: lib/api/profile_setting.php:2586
+msgid "Available balance"
+msgstr ""
+
+#: lib/api/profile_media_uploader.php:149
+msgid "banner image updated"
+msgstr ""
+
+#: lib/api/profile_setting.php:3040
+msgid "Brochures is updated successfully"
+msgstr ""
+
+#: lib/api/get_jobs.php:903
+msgid "Cancelled"
+msgstr ""
+
+#: lib/api/get_jobs.php:2314 lib/api/get_milestone.php:611
+msgid "Cancelled reason is required"
+msgstr ""
+
+#: lib/api/services.php:444
+msgid "Category is required"
+msgstr ""
+
+#: lib/api/user.php:2553
+msgid "CNIC/Passport/NIN/SSN number is required"
+msgstr ""
+
+#: lib/api/articles.php:394
+msgid "Comment deleted"
+msgstr ""
+
+#: lib/api/portfolios.php:455
+msgid "Comment has been updated."
+msgstr ""
+
+#: lib/api/articles.php:336
+msgid "Comment message in required"
+msgstr ""
+
+#: lib/api/articles.php:398
+msgid "Comment not deleted please try again"
+msgstr ""
+
+#: lib/api/articles.php:300
+msgid "Comment successfully posted"
+msgstr ""
+
+#: lib/api/articles.php:288
+msgid "Comment updated successfully"
+msgstr ""
+
+#: lib/api/articles.php:311
+msgid "Comments are closed on this post"
+msgstr ""
+
+#: lib/api/user.php:1402
+msgid "Company is successfull added in your favorite list."
+msgstr ""
+
+#: lib/api/freelancer-dashboard.php:1997 lib/api/get_jobs.php:899
+#: lib/api/get_jobs.php:2498 lib/api/get_milestone.php:969
+#: lib/api/get_milestone.php:984
+msgid "Completed"
+msgstr ""
+
+#: lib/api/profile_setting.php:2852
+msgid "Contact number is required"
+msgstr ""
+
+#: lib/api/user.php:1260
+msgid "Contact with admin to set mobile checkout page."
+msgstr ""
+
+#: lib/api/articles.php:250
+msgid "Content is missing"
+msgstr ""
+
+#: hooks/hooks.php:500 hooks/hooks.php:564
+msgid "Cost"
+msgstr ""
+
+#: lib/api/get_jobs.php:988
+msgid "Country is required"
+msgstr ""
+
+#: lib/api/profile_setting.php:2281
+msgid "Current and new password fields are required."
+msgstr ""
+
+#: lib/api/user.php:1341
+msgid "Data returned"
+msgstr ""
+
+#: lib/api/get_jobs.php:2923
+msgid "Decline Qoute"
+msgstr ""
+
+#: hooks/hooks.php:499 hooks/hooks.php:563
+msgctxt "Description for invoice detail"
+msgid "Description"
+msgstr ""
+
+#: lib/api/user.php:1894
+msgid "Details has been updated"
+msgstr ""
+
+#: lib/api/get_milestone.php:270 lib/api/get_milestone.php:1033
+msgid "Due date is required"
+msgstr ""
+
+#: lib/api/profile_setting.php:667
+msgid "Email field is requird"
+msgstr ""
+
+#: lib/api/user.php:823
+msgid "Email field is required."
+msgstr ""
+
+#: lib/api/user.php:2139 lib/api/user.php:2529
+msgid "Email is missing"
+msgstr ""
+
+#: lib/api/admin.php:61
+msgid "Email not sent please try again later."
+msgstr ""
+
+#: lib/api/admin.php:83
+msgid "Email send to the admin."
+msgstr ""
+
+#: lib/api/user.php:2172
+msgid "Employee and department fields are required."
+msgstr ""
+
+#: lib/api/switch_user.php:88
+msgid "Employer"
+msgstr ""
+
+#: lib/api/get_jobs.php:2774
+msgid "Employer listing"
+msgstr ""
+
+#: lib/api/get_employers.php:324
+msgid "Employers are not found."
+msgstr ""
+
+#: lib/api/chat.php:254 lib/api/chat.php:450
+msgid "Empty"
+msgstr ""
+
+#: lib/api/services.php:1170
+msgid "Empty Service Addon."
+msgstr ""
+
+#: lib/api/get_jobs.php:985
+msgid "English level is required"
+msgstr ""
+
+#: lib/api/profile_setting.php:1783
+msgid "Error"
+msgstr ""
+
+#: lib/api/profile_setting.php:720 lib/api/profile_setting.php:737
+msgid "Error occurred"
+msgstr ""
+
+#: lib/api/employer-dashboard.php:2043 lib/api/get_jobs.php:850
+msgid "Estimated hours"
+msgstr ""
+
+#: lib/api/proposal.php:669
+msgid "Estimated Hours are required"
+msgstr ""
+
+#: lib/api/get_jobs.php:1126
+msgid "Estimated hours is required"
+msgstr ""
+
+#: lib/api/get_jobs.php:2781 lib/api/get_jobs.php:2790
+#: lib/api/get_jobs.php:2798 lib/api/profile_setting.php:1741
+#: lib/api/user.php:2557 lib/api/user.php:2673 public/partials/functions.php:38
+msgid "Failed!"
+msgstr ""
+
+#: lib/api/portfolios.php:459
+msgid "Failed.!"
+msgstr ""
+
+#: lib/api/freelancer-dashboard.php:429 lib/api/get_freelancers.php:1041
+#: lib/api/services.php:361 lib/api/services.php:1691
+msgid "Featured"
+msgstr ""
+
+#: lib/api/employer-dashboard.php:520 lib/api/employer-dashboard.php:1016
+msgid "Feedback detail is required field"
+msgstr ""
+
+#: lib/api/chat.php:491
+msgid "File is missing."
+msgstr ""
+
+#: lib/api/profile_setting.php:1779
+msgid "File removed successfully!"
+msgstr ""
+
+#: lib/api/user.php:821
+msgid "First Name is required"
+msgstr ""
+
+#: lib/api/employer-dashboard.php:796
+msgid "Fixed"
+msgstr ""
+
+#: lib/api/freelancer-dashboard.php:1147 lib/api/freelancer-dashboard.php:1541
+#: lib/api/freelancer-dashboard.php:1710
+msgid "Fixed Price"
+msgstr ""
+
+#: lib/api/switch_user.php:79
+msgid "Freelancer"
+msgstr ""
+
+#: lib/api/chat.php:404
+msgid "Freelancer ID is required."
+msgstr ""
+
+#: lib/api/user.php:1381
+msgid "Freelancers is successfull added in your favorite list."
+msgstr ""
+
+#: hooks/hooks.php:553
+msgid "From:"
+msgstr ""
+
+#: lib/api/freelancer-dashboard.php:1994 lib/api/get_jobs.php:897
+#: lib/api/get_jobs.php:2496 lib/api/get_milestone.php:965
+#: lib/api/get_milestone.php:980
+msgid "Hired"
+msgstr ""
+
+#: mobile-checkout/mobile-checkout.php:143
+#: mobile-checkout/mobile-checkout.php:259
+#: mobile-checkout/mobile-checkout.php:325
+#: mobile-checkout/mobile-checkout.php:406
+msgid "Hiring settings is missing, please contact to administrator."
+msgstr ""
+
+#: lib/api/employer-dashboard.php:796 lib/api/freelancer-dashboard.php:1147
+#: lib/api/freelancer-dashboard.php:1541 lib/api/freelancer-dashboard.php:1710
+msgid "Hourly"
+msgstr ""
+
+#: mobile-checkout/mobile-checkout.php:433
+#: mobile-checkout/mobile-checkout.php:444
+msgid "House number and street name"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://codecanyon.net/user/amentotech/portfolio"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://themeforest.net/user/amentotech"
+msgstr ""
+
+#: lib/api/user.php:2659 lib/api/user.php:2666
+msgid "Hurray!"
+msgstr ""
+
+#: lib/api/profile_media_uploader.php:158
+msgid "image and profile id is required."
+msgstr ""
+
+#: lib/api/user.php:1461
+msgid "Invalid E-mail address!"
+msgstr ""
+
+#: lib/api/user.php:1285
+msgid "Invalid Param Data"
+msgstr ""
+
+#: lib/api/insights.php:325
+msgid "Invalid Parem Data"
+msgstr ""
+
+#: lib/api/user.php:1425 lib/api/user.php:2755
+msgid "Invalid User id."
+msgstr ""
+
+#: hooks/hooks.php:529 lib/api/profile_setting.php:1664
+msgid "Invoice"
+msgstr ""
+
+#: lib/api/profile_setting.php:1736
+msgid "Invoice download"
+msgstr ""
+
+#: hooks/hooks.php:541
+msgid "Issue date:"
+msgstr ""
+
+#: hooks/hooks.php:562
+msgid "Item"
+msgstr ""
+
+#: lib/api/user.php:1391
+msgid "Job is successfull added in your favorite list."
+msgstr ""
+
+#: lib/api/employer-dashboard.php:2094
+msgid "Job reopened successfully."
+msgstr ""
+
+#: lib/api/get_jobs.php:982
+msgid "Job title is required"
+msgstr ""
+
+#: lib/api/user.php:822
+msgid "Last Name is required."
+msgstr ""
+
+#: lib/api/profile_setting.php:1850
+msgid "List of disputes"
+msgstr ""
+
+#: lib/api/user.php:846
+msgid "Location field is required"
+msgstr ""
+
+#: lib/api/get_jobs.php:1130 lib/api/get_jobs.php:1134
+msgid "Maximum project cost should not be less than minimum project cost"
+msgstr ""
+
+#: lib/api/proposal.php:489
+msgid "Message field is required"
+msgstr ""
+
+#: lib/api/chat.php:213 lib/api/chat.php:416
+msgid "Message field is required."
+msgstr ""
+
+#: lib/api/profile_setting.php:4440
+msgid "Message has sent."
+msgstr ""
+
+#: lib/api/profile_setting.php:4407 lib/api/proposal.php:220
+msgid "Message is required."
+msgstr ""
+
+#: lib/api/chat.php:573
+msgid "Message sent!"
+msgstr ""
+
+#: lib/api/get_milestone.php:178
+msgid "Milestone ID is required"
+msgstr ""
+
+#: lib/api/get_milestone.php:246
+msgid "Milestone is completed successfully"
+msgstr ""
+
+#: lib/api/get_milestone.php:269 lib/api/get_milestone.php:1032
+msgid "Milestone title is required"
+msgstr ""
+
+#: hooks/hooks.php:485 lib/api/profile_setting.php:1471
+msgid "Milestone title:"
+msgstr ""
+
+#: lib/api/services.php:462
+msgid "Minimum service price should be "
+msgstr ""
+
+#: mobile-checkout/init.php:84
+msgid "Mobile Checkout"
+msgstr ""
+
+#: mobile-checkout/mobile-checkout.php:422
+msgid "Mobile Checkout Template"
+msgstr ""
+
+#: lib/api/profile_setting.php:2851 lib/api/user.php:2551
+msgid "Name is required"
+msgstr ""
+
+#: lib/api/profile_setting.php:1834
+msgid "NILL"
+msgstr ""
+
+#: lib/api/disputes.php:95
+msgid "No Data found..!"
+msgstr ""
+
+#: lib/api/profile_setting.php:1855
+msgid "No disputes found"
+msgstr ""
+
+#: lib/api/employer-dashboard.php:397 lib/api/employer-dashboard.php:904
+#: lib/api/employer-dashboard.php:985 lib/api/user.php:1228
+msgid "No kiddies please"
+msgstr ""
+
+#: lib/api/chat.php:200 lib/api/proposal.php:195
+msgid "No kiddies please."
+msgstr ""
+
+#: lib/api/get_freelancers.php:1412
+msgid "No listing found"
+msgstr ""
+
+#: lib/api/profile_setting.php:1600
+msgid "No orders found"
+msgstr ""
+
+#: lib/api/get_jobs.php:930
+msgid "No porposal listing found"
+msgstr ""
+
+#: lib/api/profile_setting.php:3153
+msgid "No profiles found"
+msgstr ""
+
+#: lib/api/disputes.php:227
+msgid "No project & service found!"
+msgstr ""
+
+#: lib/api/disputes.php:246 lib/api/profile_setting.php:1882
+msgid "No project/service is selected"
+msgstr ""
+
+#: lib/api/freelancer-dashboard.php:2019
+msgid "No Proposal found"
+msgstr ""
+
+#: lib/api/freelancer-dashboard.php:1074 lib/api/get_jobs.php:2782
+#: lib/api/get_jobs.php:2799 lib/api/get_jobs.php:3012
+msgid "No record found!"
+msgstr ""
+
+#: lib/api/get_jobs.php:2734
+msgid "No services added."
+msgstr ""
+
+#: lib/api/profile_setting.php:2313
+msgid "Old Password doesn't matched with the existing password"
+msgstr ""
+
+#: hooks/hooks.php:764 lib/api/proposal.php:430
+msgid "Oops"
+msgstr ""
+
+#: lib/api/profile_setting.php:1770
+msgid "Oops!"
+msgstr ""
+
+#: lib/api/get_jobs.php:2733 lib/api/get_jobs.php:3068
+#: lib/api/get_jobs.php:3074
+msgid "Oopss!"
+msgstr ""
+
+#: hooks/hooks.php:481 lib/api/profile_setting.php:1467
+msgid "Package:"
+msgstr ""
+
+#: lib/api/user.php:889
+msgid "Password does not match."
+msgstr ""
+
+#: lib/api/profile_setting.php:2248
+msgid "Password doesn't match"
+msgstr ""
+
+#: lib/api/user.php:824
+msgid "Password field is required"
+msgstr ""
+
+#: lib/api/user.php:881
+msgid "Password length should be minimum 6"
+msgstr ""
+
+#: lib/api/profile_setting.php:2308
+msgid "Password Updated."
+msgstr ""
+
+#: lib/api/get_jobs.php:2491 lib/api/get_milestone.php:958
+msgid "Pay Now"
+msgstr ""
+
+#: lib/api/profile_setting.php:2661
+msgid "Payout listing"
+msgstr ""
+
+#: lib/api/profile_setting.php:2549
+msgid "Payout settings"
+msgstr ""
+
+#: lib/api/profile_setting.php:2459 lib/api/profile_setting.php:2498
+msgid "Payout settings updated"
+msgstr ""
+
+#: lib/api/freelancer-dashboard.php:2000 lib/api/get_jobs.php:901
+#: lib/api/get_jobs.php:905 lib/api/get_milestone.php:974
+#: lib/api/get_milestone.php:977 lib/api/profile_setting.php:1831
+#: lib/api/profile_setting.php:2638
+msgid "Pending"
+msgstr ""
+
+#: lib/api/get_jobs.php:1122
+msgid "Per hour rate is required"
+msgstr ""
+
+#: lib/api/user.php:2552
+msgid "Phone is required"
+msgstr ""
+
+#: lib/api/profile_setting.php:3375 lib/api/user.php:840
+msgid "Phone number is required"
+msgstr ""
+
+#: lib/api/user.php:2751
+msgid "Player ID is updated!"
+msgstr ""
+
+#: lib/api/user.php:2782
+msgid "Player id not exist"
+msgstr ""
+
+#: lib/api/user.php:2778
+msgid "Player id removed!"
+msgstr ""
+
+#: lib/api/payments.php:114
+msgid "Please active stripe Payment method in Woocommerce plugin."
+msgstr ""
+
+#: lib/api/payments.php:70 lib/api/payments.php:120
+msgid "Please active Woocommerce plugin."
+msgstr ""
+
+#: lib/api/profile_setting.php:673
+msgid "Please add a valid email address"
+msgstr ""
+
+#: lib/api/user.php:869 lib/api/user.php:1451
+msgid "Please add a valid email address."
+msgstr ""
+
+#: lib/api/get_jobs.php:3259
+msgid "Please add decline reason"
+msgstr ""
+
+#: lib/api/disputes.php:248 lib/api/profile_setting.php:1884
+msgid "Please add dispute description"
+msgstr ""
+
+#: lib/api/user.php:1446
+msgid "Please add email address."
+msgstr ""
+
+#: lib/api/profile_setting.php:2297
+msgid "Please add your new password."
+msgstr ""
+
+#: lib/api/profile_setting.php:1606
+msgid "Please install WooCommerce"
+msgstr ""
+
+#: mobile-checkout/mobile-checkout.php:139
+#: mobile-checkout/mobile-checkout.php:188
+#: mobile-checkout/mobile-checkout.php:255
+#: mobile-checkout/mobile-checkout.php:321
+#: mobile-checkout/mobile-checkout.php:402
+msgid "Please install WooCommerce plugin to process this order"
+msgstr ""
+
+#: lib/api/get_employers.php:236 lib/api/get_freelancers.php:373
+#: lib/api/get_jobs.php:2103 lib/api/services.php:1590
+#: lib/api/services.php:1594
+msgid "Please provide api type"
+msgstr ""
+
+#: lib/api/get_jobs.php:987
+msgid "Please select at-least one category"
+msgstr ""
+
+#: lib/api/get_jobs.php:986
+msgid "Please select job type."
+msgstr ""
+
+#: lib/api/get_jobs.php:3105
+msgid "Please select the employer"
+msgstr ""
+
+#: lib/api/disputes.php:247 lib/api/profile_setting.php:1883
+msgid "Please select the reason"
+msgstr ""
+
+#: lib/api/payments.php:108
+msgid "Please set stripe Payment method keys in Woocommerce plugin."
+msgstr ""
+
+#: lib/api/profile_setting.php:2721 lib/api/profile_setting.php:2738
+#: lib/api/profile_setting.php:2757
+msgid ""
+"Please update the payout settings for the selected payment gateway in payout "
+"settings"
+msgstr ""
+
+#: lib/api/profile_setting.php:2866
+msgid "Please upload a document"
+msgstr ""
+
+#: lib/api/get_jobs.php:936
+msgid "Porposal listing"
+msgstr ""
+
+#: lib/api/portfolios.php:107 lib/api/portfolios.php:487
+msgid "Portfolio ID is required"
+msgstr ""
+
+#: lib/api/portfolios.php:500
+msgid "Portfolio removed successfully."
+msgstr ""
+
+#: lib/api/portfolios.php:130
+msgid "Portfolio status is not updated."
+msgstr ""
+
+#: lib/api/portfolios.php:108
+msgid "Portfolio status is required"
+msgstr ""
+
+#: lib/api/portfolios.php:165
+msgid "Portfolio title is required"
+msgstr ""
+
+#: lib/api/articles.php:249
+msgid "Post id is missing"
+msgstr ""
+
+#: lib/api/profile_setting.php:657 lib/api/profile_setting.php:915
+#: lib/api/profile_setting.php:1233
+msgid "Post ID is not found"
+msgstr ""
+
+#: lib/api/freelancer-dashboard.php:736
+msgid "Post ID is required"
+msgstr ""
+
+#: lib/api/portfolios.php:423
+msgid "Post id is required."
+msgstr ""
+
+#: lib/api/articles.php:123
+msgid "Post is is missing"
+msgstr ""
+
+#: lib/api/freelancer-dashboard.php:737
+msgid "Post status is required"
+msgstr ""
+
+#: lib/api/get_milestone.php:300 lib/api/get_milestone.php:309
+#: lib/api/get_milestone.php:313 lib/api/get_milestone.php:1063
+#: lib/api/get_milestone.php:1073 lib/api/get_milestone.php:1078
+msgid "Price is greater then remaining price"
+msgstr ""
+
+#: lib/api/get_milestone.php:271 lib/api/get_milestone.php:1034
+msgid "Price is required"
+msgstr ""
+
+#: lib/api/profile_setting.php:2638
+msgid "Processed"
+msgstr ""
+
+#: lib/api/profile_setting.php:628
+msgid "Profile has been updated"
+msgstr ""
+
+#: lib/api/profile_media_uploader.php:89
+msgid "profile image updated"
+msgstr ""
+
+#: lib/api/employer-dashboard.php:368 lib/api/profile_setting.php:3286
+#: lib/api/profile_setting.php:3696 lib/api/profile_setting.php:3814
+msgid "Profile is updated successfully"
+msgstr ""
+
+#: lib/api/profile_setting.php:4281
+msgid "Profile not exist!"
+msgstr ""
+
+#: lib/api/profile_setting.php:823 lib/api/profile_setting.php:4275
+msgid "profile Settings."
+msgstr ""
+
+#: lib/api/employer-dashboard.php:719
+msgid "Project completed successfully."
+msgstr ""
+
+#: lib/api/get_jobs.php:1138
+msgid "Project cost is required"
+msgstr ""
+
+#: lib/api/get_jobs.php:2616
+msgid "Project deleted successfully!"
+msgstr ""
+
+#: lib/api/get_jobs.php:984
+msgid "Project duration is required"
+msgstr ""
+
+#: lib/api/employer-dashboard.php:489
+msgid "Project has been cancelled."
+msgstr ""
+
+#: lib/api/freelancer-dashboard.php:1417 lib/api/freelancer-dashboard.php:1423
+msgid "Project History"
+msgstr ""
+
+#: lib/api/proposal.php:486
+msgid "Project ID field is required"
+msgstr ""
+
+#: lib/api/freelancer-dashboard.php:247 lib/api/proposal.php:473
+msgid "Project id is missing"
+msgstr ""
+
+#: lib/api/get_jobs.php:2548
+msgid "Project ID is required"
+msgstr ""
+
+#: lib/api/get_jobs.php:983
+msgid "Project level is required"
+msgstr ""
+
+#: lib/api/get_jobs.php:1040
+msgid "Project location type is required"
+msgstr ""
+
+#: lib/api/get_jobs.php:2621
+msgid "Project not delete, please try again later"
+msgstr ""
+
+#: hooks/hooks.php:438 hooks/hooks.php:487 lib/api/profile_setting.php:1422
+#: lib/api/profile_setting.php:1473
+msgid "Project title:"
+msgstr ""
+
+#: lib/api/get_jobs.php:2647
+msgid "Proposal id is missing"
+msgstr ""
+
+#: lib/api/get_jobs.php:2307 lib/api/get_milestone.php:604
+#: lib/api/get_milestone.php:1031
+msgid "Proposal ID is required"
+msgstr ""
+
+#: lib/api/get_milestone.php:407 lib/api/get_milestone.php:797
+msgid "Proposal ID is required."
+msgstr ""
+
+#: lib/api/get_milestone.php:268
+msgid "Proposal is required"
+msgstr ""
+
+#: lib/api/proposal.php:979
+msgid "Proposal sent Successfully "
+msgstr ""
+
+#: lib/api/proposal.php:488 lib/api/proposal.php:679
+msgid "Proposal time is required"
+msgstr ""
+
+#: lib/api/proposal.php:981
+msgid "Proposal updated Successfully "
+msgstr ""
+
+#: lib/api/get_jobs.php:3261
+msgid "Qoute Id is missing."
+msgstr ""
+
+#: lib/api/get_jobs.php:3337
+msgid "Qoute request has been declined."
+msgstr ""
+
+#: lib/api/get_jobs.php:2728 lib/api/get_jobs.php:3005
+msgid "Qoutes listing"
+msgstr ""
+
+#: lib/api/profile_setting.php:4414
+msgid "Query type is required."
+msgstr ""
+
+#: lib/api/get_jobs.php:3039
+msgid "Quote ID is required"
+msgstr ""
+
+#: lib/api/get_jobs.php:3062
+msgid "Quotes listing update"
+msgstr ""
+
+#: lib/api/profile_setting.php:2205
+msgid "Reason field is missing."
+msgstr ""
+
+#: lib/api/chat.php:479
+msgid "Receiver user ID is missing"
+msgstr ""
+
+#: lib/api/articles.php:361
+msgid "Reply send successfully"
+msgstr ""
+
+#: lib/api/get_freelancers.php:885
+msgid "Report this freelancer"
+msgstr ""
+
+#: lib/api/get_milestone.php:466 lib/api/get_milestone.php:843
+msgid "Request sent successfully to the freelancer."
+msgstr ""
+
+#: lib/api/profile_setting.php:3819
+msgid "Required fields are missing"
+msgstr ""
+
+#: lib/api/profile_setting.php:1829
+msgid "Resolved"
+msgstr ""
+
+#: public/partials/functions.php:15 public/partials/functions.php:26
+msgid "Restricted access!"
+msgstr ""
+
+#: lib/api/get_jobs.php:3106
+msgid "Select service which quote you want to send"
+msgstr ""
+
+#: lib/api/freelancer-dashboard.php:1412
+msgid "Service History"
+msgstr ""
+
+#: lib/api/services.php:1243
+msgid "Service ID is required"
+msgstr ""
+
+#: lib/api/user.php:1413
+msgid "Service is successfull added in your favorite list."
+msgstr ""
+
+#: lib/api/services.php:443
+msgid "Service price is required"
+msgstr ""
+
+#: lib/api/freelancer-dashboard.php:757
+msgid "Service status is not updated."
+msgstr ""
+
+#: lib/api/services.php:442
+msgid "Service title is required"
+msgstr ""
+
+#: hooks/hooks.php:483 lib/api/profile_setting.php:1469
+msgid "Service title:"
+msgstr ""
+
+#: lib/api/freelancer-dashboard.php:1069
+msgid "Services list"
+msgstr ""
+
+#: lib/api/profile_setting.php:3135 lib/api/profile_setting.php:3211
+msgid "Settings has been disabled by admin"
+msgstr ""
+
+#: lib/api/profile_setting.php:1211
+msgid "Settings have been updated"
+msgstr ""
+
+#: lib/api/get_jobs.php:2366 lib/api/get_milestone.php:671
+msgid "Settings Updated."
+msgstr ""
+
+#: lib/api/get_freelancers.php:838
+msgid "Share on Facebook"
+msgstr ""
+
+#: lib/api/get_freelancers.php:830
+msgid "Share on linkedin"
+msgstr ""
+
+#: lib/api/get_freelancers.php:854
+msgid "Share on Pinterest"
+msgstr ""
+
+#: lib/api/get_freelancers.php:846
+msgid "Share on Twitter"
+msgstr ""
+
+#: lib/api/profile_setting.php:3128
+msgid "Social profiles has been updated"
+msgstr ""
+
+#: lib/api/profile_setting.php:3205
+msgid "Social profiles lists"
+msgstr ""
+
+#: mobile-checkout/mobile-checkout.php:192 lib/api/get_categories.php:108
+#: lib/api/get_jobs.php:709 lib/api/get_jobs.php:1160 lib/api/get_jobs.php:1520
+#: lib/api/get_jobs.php:2285 lib/api/get_jobs.php:2627
+#: lib/api/get_jobs.php:3228 lib/api/portfolios.php:199
+#: lib/api/portfolios.php:401 lib/api/portfolios.php:693
+#: lib/api/profile_setting.php:2988 lib/api/profile_setting.php:3244
+#: lib/api/profile_setting.php:3329 lib/api/services.php:504
+#: lib/api/services.php:1004 lib/api/services.php:1062
+#: lib/api/services.php:1096
+msgid "Some error occur, please try again later"
+msgstr ""
+
+#: lib/api/profile_media_uploader.php:96 lib/api/profile_media_uploader.php:153
+#: lib/api/profile_setting.php:4447 lib/api/user.php:951 lib/api/user.php:1534
+msgid "Some error occur, please try again later."
+msgstr ""
+
+#: lib/api/chat.php:449 lib/api/user.php:1150 lib/api/user.php:1823
+#: lib/api/user.php:2524
+msgid "Some error occurs, please try again later"
+msgstr ""
+
+#: lib/api/profile_setting.php:2211
+msgid "Some fields are missing."
+msgstr ""
+
+#: lib/api/articles.php:386 lib/api/user.php:2787 lib/api/user.php:2792
+msgid "Something is missing"
+msgstr ""
+
+#: lib/api/admin.php:65 lib/api/favourites.php:75 lib/api/get_jobs.php:480
+#: lib/api/services.php:382
+msgid "Something is missing!"
+msgstr ""
+
+#: lib/api/articles.php:305 lib/api/articles.php:366 lib/api/user.php:2550
+msgid "Something went wrong"
+msgstr ""
+
+#: lib/api/profile_setting.php:564 lib/api/profile_setting.php:614
+msgid "something went wrong"
+msgstr ""
+
+#: lib/api/articles.php:293 lib/api/favourites.php:59
+#: lib/api/profile_setting.php:1742 lib/api/profile_setting.php:1784
+#: lib/api/profile_setting.php:2198 lib/api/user.php:2133
+msgid "Something went wrong!"
+msgstr ""
+
+#: lib/api/chat.php:485 lib/api/get_jobs.php:2791 lib/api/get_jobs.php:3075
+#: lib/api/get_jobs.php:3260 lib/api/get_jobs.php:3341 lib/api/user.php:2674
+msgid "Something went wrong."
+msgstr ""
+
+#: lib/api/chat.php:253
+msgid "Something went wrong.!"
+msgstr ""
+
+#: lib/api/freelancer-dashboard.php:706 lib/api/services.php:1860
+msgid "Sorry no record found!"
+msgstr ""
+
+#: public/partials/functions.php:50
+msgid "Sorry! you are restricted to perform this action on demo site."
+msgstr ""
+
+#: lib/api/payments.php:95
+msgid "Stripe API not found."
+msgstr ""
+
+#: hooks/hooks.php:575
+msgid "Subtotal :"
+msgstr ""
+
+#: lib/api/profile_setting.php:1778 lib/api/profile_setting.php:2585
+msgid "Success"
+msgstr ""
+
+#: lib/api/portfolios.php:454
+msgid "success"
+msgstr ""
+
+#: lib/api/user.php:2612
+msgid "Success!"
+msgstr ""
+
+#: lib/api/services.php:1210
+msgid "Successfully!  removed this addon service."
+msgstr ""
+
+#: lib/api/services.php:1252
+msgid "Successfully!  removed this service."
+msgstr ""
+
+#: lib/api/profile_setting.php:2959 lib/api/user.php:2708
+msgid "Successfully! deleted your verification request"
+msgstr ""
+
+#: lib/api/favourites.php:68
+msgid "Successfully! removed from your favourties"
+msgstr ""
+
+#: lib/api/profile_setting.php:2930
+msgid "Successfully! submitted your request for verification"
+msgstr ""
+
+#: lib/api/portfolios.php:126
+msgid "Successfully! update portfolio status"
+msgstr ""
+
+#: lib/api/freelancer-dashboard.php:753
+msgid "Successfully! updated the post status."
+msgstr ""
+
+#: lib/api/notification.php:139
+msgid "Successfuly view this notification"
+msgstr ""
+
+#: lib/api/switch_user.php:99
+msgid "Switch user"
+msgstr ""
+
+#: lib/api/get_taxonomies.php:132 lib/api/get_taxonomies.php:206
+#: lib/api/get_taxonomies.php:211 lib/api/get_taxonomies.php:280
+msgid "there are no taxonomies are found."
+msgstr ""
+
+#: lib/api/get_milestone.php:381 lib/api/get_milestone.php:1148
+msgid "There are some errors, please try again later"
+msgstr ""
+
+#: lib/api/user.php:873
+msgid "This email is already registered"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin is used for creating custom API for Workreap WordPress Theme. "
+"Please don't update this plugin until you update your APP."
+msgstr ""
+
+#: lib/api/proposal.php:609
+msgid ""
+"This project has been assigned to one of the freelancer. You can't send "
+"proposals."
+msgstr ""
+
+#: lib/api/proposal.php:617
+msgid ""
+"This project has been cancelled, when employer will re-open this project "
+"then you would be able to send proposal."
+msgstr ""
+
+#: lib/api/proposal.php:613
+msgid "This project has been completed, so you can't send proposals"
+msgstr ""
+
+#: lib/api/proposal.php:621
+msgid "This project is under review. You can't send proposals."
+msgstr ""
+
+#: hooks/hooks.php:547
+msgid "To:"
+msgstr ""
+
+#: hooks/hooks.php:584 hooks/hooks.php:588
+msgid "Total :"
+msgstr ""
+
+#: hooks/hooks.php:501 hooks/hooks.php:565 hooks/hooks.php:579
+msgid "Transaction fee"
+msgstr ""
+
+#: lib/api/user.php:1419
+msgid "Type field is required."
+msgstr ""
+
+#: lib/api/get_jobs.php:3061
+msgid "Updated!"
+msgstr ""
+
+#: lib/api/profile_setting.php:2826
+msgid "Upload Identity Information"
+msgstr ""
+
+#: lib/api/profile_media_uploader.php:101
+msgid "user id and image is required fields."
+msgstr ""
+
+#: lib/api/proposal.php:485
+msgid "User ID field is required"
+msgstr ""
+
+#: lib/api/articles.php:251 lib/api/services.php:1215
+msgid "User id is missing"
+msgstr ""
+
+#: lib/api/profile_setting.php:1771
+msgid "User Id is missing!"
+msgstr ""
+
+#: lib/api/get_jobs.php:2703
+msgid "User id is missing!"
+msgstr ""
+
+#: lib/api/freelancer-dashboard.php:738 lib/api/get_jobs.php:2555
+#: lib/api/get_jobs.php:3040 lib/api/services.php:1033
+msgid "User ID is required"
+msgstr ""
+
+#: lib/api/services.php:1176
+msgid "User Id is required"
+msgstr ""
+
+#: lib/api/articles.php:264 lib/api/profile_setting.php:2253
+#: lib/api/profile_setting.php:4286 lib/api/services.php:1262
+msgid "User id is required"
+msgstr ""
+
+#: lib/api/chat.php:315 lib/api/switch_user.php:68 lib/api/switch_user.php:127
+#: lib/api/user.php:1195
+msgid "User ID is required field."
+msgstr ""
+
+#: lib/api/services.php:1101
+msgid "User id is required!"
+msgstr ""
+
+#: lib/api/chat.php:207 lib/api/chat.php:410 lib/api/user.php:779
+msgid "User ID is required."
+msgstr ""
+
+#: lib/api/chat.php:374
+msgid "User id is required."
+msgstr ""
+
+#: lib/api/employer-dashboard.php:2098
+msgid "User Id or project Id is missing"
+msgstr ""
+
+#: lib/api/user.php:2701
+msgid "User id os required"
+msgstr ""
+
+#: lib/api/user.php:1714
+msgid "User ID required"
+msgstr ""
+
+#: lib/api/portfolios.php:422
+msgid "User id required."
+msgstr ""
+
+#: lib/api/user.php:1685
+msgid "user name and password are required fields."
+msgstr ""
+
+#: lib/api/user.php:820
+msgid "User Name field is required"
+msgstr ""
+
+#: lib/api/profile_setting.php:2189
+msgid "User not exist"
+msgstr ""
+
+#: lib/api/user.php:826
+msgid "User type field is required."
+msgstr ""
+
+#: lib/api/chat.php:369
+msgid "User type is invalid."
+msgstr ""
+
+#: lib/api/insights.php:280
+msgid "User type required"
+msgstr ""
+
+#: lib/api/user.php:911
+msgid "Username already registered"
+msgstr ""
+
+#: lib/api/user.php:2613
+msgid "Verfication document has been sent."
+msgstr ""
+
+#: lib/api/user.php:805
+msgid "Verification code has sent on your email"
+msgstr ""
+
+#: lib/api/user.php:1201
+msgid "Verification code is required field."
+msgstr ""
+
+#: lib/api/profile_setting.php:2853
+msgid "Verification number is required"
+msgstr ""
+
+#: lib/api/user.php:2645
+msgid "Verification required"
+msgstr ""
+
+#: lib/api/user.php:825
+msgid "Verify Password field is required."
+msgstr ""
+
+#: lib/api/profile_setting.php:2702
+msgid "We are Sorry! you do not have sufficient amount for the withdrawal"
+msgstr ""
+
+#: lib/api/proposal.php:534
+msgid "We are sorry, but this job has been expired."
+msgstr ""
+
+#: lib/api/disputes.php:399 lib/api/profile_setting.php:2040
+msgid "We have received your dispute, soon we will get back to you."
+msgstr ""
+
+#: lib/api/user.php:2660 lib/api/user.php:2667
+msgid ""
+"We have successfully completed your indentity verification. you’re now ready "
+"to use full features."
+msgstr ""
+
+#: lib/api/user.php:2652
+msgid "Woohoo!"
+msgstr ""
+
+#. Name of the plugin
+msgid "Workreap Mobile APP API"
+msgstr ""
+
+#: mobile-checkout/mobile-checkout.php:448
+msgid "Write notes about your order"
+msgstr ""
+
+#: lib/api/portfolios.php:424
+msgid "Write something in comment section."
+msgstr ""
+
+#: lib/api/get_freelancers.php:617 lib/api/get_freelancers.php:654
+#: lib/api/get_freelancers.php:701
+msgid "Years"
+msgstr ""
+
+#: lib/api/profile_setting.php:2243
+msgid "You account has been deleted."
+msgstr ""
+
+#: lib/api/user.php:1676 lib/api/user.php:2036 lib/api/user.php:2518
+msgid "You are logged in"
+msgstr ""
+
+#: lib/api/user.php:1710
+msgid "You are logged out successfully"
+msgstr ""
+
+#: lib/api/proposal.php:574
+msgid "You are not allowed to buy your own service"
+msgstr ""
+
+#: public/partials/functions.php:16
+msgid "You are not allowed to perform this action!!"
+msgstr ""
+
+#: public/partials/functions.php:27
+msgid ""
+"You are not allowed to perform this action. Please activate plugin license."
+msgstr ""
+
+#: includes/class-workreap-jwt.php:140
+msgid "You are not allowed to perform this action.!"
+msgstr ""
+
+#: lib/api/user.php:2712
+msgid "You are not allowed to perform this action.!!"
+msgstr ""
+
+#: lib/api/proposal.php:628
+msgid "You are not allowed to send  the proposals"
+msgstr ""
+
+#: lib/api/proposal.php:572
+msgid "You are not allowed to send proposal on your job"
+msgstr ""
+
+#: lib/api/profile_setting.php:2696
+msgid "You are not allowed to withdraw amount below the"
+msgstr ""
+
+#: lib/api/get_jobs.php:2564
+msgid "You are not authorized"
+msgstr ""
+
+#: lib/api/get_jobs.php:3146
+msgid "You are not authorized to update this quote"
+msgstr ""
+
+#: lib/api/services.php:1285
+msgid "You are restricted to access this page"
+msgstr ""
+
+#: lib/api/proposal.php:660 lib/api/proposal.php:989
+msgid "You can not send proposal for a closed project"
+msgstr ""
+
+#: lib/api/services.php:1256
+msgid "You cannot do this because your orders in queue."
+msgstr ""
+
+#: lib/api/proposal.php:652
+msgid "You have already sent the proposal"
+msgstr ""
+
+#: lib/api/employer-dashboard.php:547
+msgid "You have already submit a review."
+msgstr ""
+
+#: lib/api/disputes.php:291 lib/api/profile_setting.php:1927
+msgid "You have already submitted the dispute against this project."
+msgstr ""
+
+#: lib/api/get_employers.php:123
+msgid "You have no employers in your favorite list."
+msgstr ""
+
+#: lib/api/get_freelancers.php:170
+msgid "You have no freelancer in your favorite list."
+msgstr ""
+
+#: lib/api/profile_media_uploader.php:163
+msgid "You have no permission to change banner picture."
+msgstr ""
+
+#: lib/api/get_jobs.php:1650
+msgid "You have no project in your favourite list."
+msgstr ""
+
+#: lib/api/services.php:1412
+msgid "You have no services in your favorite list."
+msgstr ""
+
+#: lib/api/user.php:1849 lib/api/user.php:1859
+msgid "You have points to add new"
+msgstr ""
+
+#: lib/api/user.php:2653
+msgid ""
+"You have successfully submitted your documents. buckle up We will verify and "
+"respond to your request very soon."
+msgstr ""
+
+#: lib/api/switch_user.php:253
+msgid "You have successfully switch user."
+msgstr ""
+
+#: lib/api/get_milestone.php:772
+msgid "You have successfully update proposal request."
+msgstr ""
+
+#: lib/api/get_milestone.php:377 lib/api/get_milestone.php:1144
+msgid "You have successfully update/added the milestone."
+msgstr ""
+
+#: mobile-checkout/mobile-checkout.php:50
+msgid "You must be login to view checkout page."
+msgstr ""
+
+#: lib/api/portfolios.php:102
+msgid "You must login before changing this portfolio status."
+msgstr ""
+
+#: lib/api/user.php:1765
+msgid "You must login before report"
+msgstr ""
+
+#: lib/api/user.php:2646
+msgid ""
+"You must verify your identity, please submit the required documents to get "
+"verified.As soon as you will be verified then you will be able to get online "
+"appointments and other site features."
+msgstr ""
+
+#: lib/api/insights.php:308 lib/api/user.php:1274
+msgid "You order has been placed, Please pay to make it complete"
+msgstr ""
+
+#: lib/api/user.php:827
+msgid "You should agree to terms and conditions."
+msgstr ""
+
+#: lib/api/portfolios.php:460 lib/api/portfolios.php:494
+msgid "You're not allowed to remove this portfolio"
+msgstr ""
+
+#: lib/api/user.php:1224
+msgid "Your account has been verified successfully!"
+msgstr ""
+
+#: lib/api/user.php:1157
+msgid ""
+"Your account have been created. Please verify your account through "
+"verification code, an email have been sent your email address."
+msgstr ""
+
+#: lib/api/user.php:1155
+msgid ""
+"Your account have been created. Please wait while your account is verified "
+"by the admin."
+msgstr ""
+
+#: lib/api/proposal.php:550
+msgid "Your account is not verified, so you cannot post anything."
+msgstr ""
+
+#: lib/api/proposal.php:554
+msgid "Your account is temporarily blocked, so you cannot post anything."
+msgstr ""
+
+#: lib/api/services.php:1091
+msgid "Your addons service has been added"
+msgstr ""
+
+#: lib/api/services.php:1088
+msgid "Your addons service has been updated"
+msgstr ""
+
+#: lib/api/profile_setting.php:697 lib/api/profile_setting.php:711
+#: lib/api/profile_setting.php:743
+msgid "Your email has been updated"
+msgstr ""
+
+#: lib/api/get_taxonomies.php:100
+msgid "Your featured job creation option is expired."
+msgstr ""
+
+#: lib/api/proposal.php:594
+msgid "Your identity is not verified, so you cannot post or buy anything."
+msgstr ""
+
+#: lib/api/get_jobs.php:1506
+msgid "Your job has been posted."
+msgstr ""
+
+#: lib/api/get_jobs.php:1479
+msgid "Your job has been updated"
+msgstr ""
+
+#: lib/api/chat.php:233
+msgid "Your message has been sent successfully"
+msgstr ""
+
+#: lib/api/proposal.php:440
+msgid "Your message has sent."
+msgstr ""
+
+#: lib/api/chat.php:444
+msgid "Your offer has submitted"
+msgstr ""
+
+#: lib/api/employer-dashboard.php:981
+msgid "Your order have been cancelled."
+msgstr ""
+
+#: lib/api/portfolios.php:396
+msgid "Your portfolio has been added."
+msgstr ""
+
+#: lib/api/portfolios.php:393
+msgid "Your portfolio has been updated"
+msgstr ""
+
+#: lib/api/get_jobs.php:3208
+msgid "Your quote has been sent to employer."
+msgstr ""
+
+#: lib/api/user.php:1819
+msgid "Your report has submitted"
+msgstr ""
+
+#: lib/api/services.php:998
+msgid "Your service has been posted."
+msgstr ""
+
+#: lib/api/services.php:961
+msgid "Your service has been updated"
+msgstr ""
+
+#: lib/api/employer-dashboard.php:1115
+msgid "Your service have been completed successfully."
+msgstr ""
+
+#: lib/api/profile_setting.php:2799
+msgid ""
+"Your withdrawal request has been submitted. We will process your withdrawal "
+"request"
+msgstr ""
+
+#: lib/api/services.php:435
+msgid ""
+"You’ve consumed all you points or your package has get expired. Please "
+"upgrade your package"
+msgstr ""
+
+#: lib/api/user.php:1844
+msgid "You’ve consumed all you points to add featured service."
+msgstr ""
+
+#: lib/api/get_jobs.php:976
+msgid "You’ve consumed all you points to add new job."
+msgstr ""
+
+#: lib/api/user.php:1854
+msgid "You’ve consumed all you points to add new."
+msgstr ""
+
+#: lib/api/proposal.php:602
+msgid "You’ve consumed all you points to apply new job."
+msgstr ""
+
+#: lib/api/proposal.php:541
+msgid ""
+"You’ve consumed all your credits to apply on a job. Please subscribe to a "
+"package to appy on this job"
+msgstr ""
+
+#: hooks/hooks.php:765 lib/api/proposal.php:431
+msgid ""
+"Zip library is not installed on the server, please contact to hosting "
+"provider"
+msgstr ""

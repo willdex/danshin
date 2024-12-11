@@ -1,0 +1,34 @@
+/* Meta boxex styling  */
+.postbox-header .ui-sortable-handle{
+    padding: 0;
+}
+#workreap-page-meta-box .handle-order-higher,
+#workreap-page-meta-box .handle-order-lower{
+    display: none !important;
+}
+.wrokreap-page-meta-box-wrapper div + div{
+    margin-top: 10px;
+}
+.wrokreap-page-meta-box-select{
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+}
+#workreap-page-meta-box >.inside{
+    padding: 0 16px 16px;
+}
+#workreap-page-meta-box h2.hndle{
+    padding: 0 !important;
+}
+#workreap-page-meta-box .postbox-header{
+    padding: 16px;
+    justify-content: space-between;
+}
+#workreap-page-meta-box .postbox-header .handlediv{
+    height: 24px;
+    width: 24px;
+}
+.wrokreap-page-meta-box-wrapper .meta-box-sortables select{
+    height: 40px;
+    border-radius: 5px;
+}

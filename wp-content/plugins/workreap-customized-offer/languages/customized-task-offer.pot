@@ -1,0 +1,723 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Workreap - Customized task offers addon\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-10 07:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: customized-task-offer"
+
+#: public/partials/hooks.php:181 public/partials/hooks.php:189
+#, php-format
+msgid "%s Day"
+msgid_plural "%s Days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: public/partials/hooks.php:718
+msgid "<b>{{employer_name}}</b> decline your offer for task <b>{{task_name}}</b>"
+msgstr ""
+
+#: templates/single-offer/price-plan-tabs.php:97
+msgid "Accept offer"
+msgstr ""
+
+#: templates/post-offer/add-service-pricing.php:172
+msgid "Add custom fields"
+msgstr ""
+
+#: templates/single-offer/price-plan-tabs.php:128
+msgid "Add decline reason"
+msgstr ""
+
+#: templates/post-offer/add-service-pricing.php:144
+msgid "Add description"
+msgstr ""
+
+#: templates/offers-cart-page.php:187
+msgid "Add funds to wallet"
+msgstr ""
+
+#: templates/post-offer/add-service-pricing.php:173
+msgid "Add more"
+msgstr ""
+
+#: admin/class-offers-cpt.php:43 admin/class-offers-cpt.php:44
+#: templates/freelancers-offers-listing.php:183
+msgid "Add new offer"
+msgstr ""
+
+#: public/partials/template-loader.php:40
+msgid "Add offer"
+msgstr ""
+
+#: templates/freelancers-offers-listing.php:180
+msgid "add task"
+msgstr ""
+
+#: templates/single-offer/task-cart.php:38
+msgid "Add task details"
+msgstr ""
+
+#: templates/post-offer/add-service-pricing.php:185
+#: templates/post-offer/add-service-pricing.php:224
+msgid "Add title"
+msgstr ""
+
+#: templates/post-offer/add-media-attachments.php:46
+#, php-format
+msgid "Add up to %s"
+msgstr ""
+
+#: templates/post-offer/add-service-pricing.php:191
+#: templates/post-offer/add-service-pricing.php:228
+msgid "Add value"
+msgstr ""
+
+#: templates/freelancers-offers-listing.php:182
+msgid "Add your new offer and start getting orders"
+msgstr ""
+
+#: public/partials/functions.php:200
+msgid "Add/edit offer"
+msgstr ""
+
+#: admin/class-offers-cpt.php:42 public/partials/hooks.php:123
+msgid "All offers"
+msgstr ""
+
+#: admin/class-offers-cpt.php:55
+msgid "All offers."
+msgstr ""
+
+#: public/partials/functions.php:166
+msgid "All orders"
+msgstr ""
+
+#. Author of the plugin
+msgid "Amento Tech Private Limited"
+msgstr ""
+
+#: public/partials/hooks.php:129
+msgid "Approved"
+msgstr ""
+
+#: public/customized-task-offers-public.php:90
+msgid "Are you sure you want to decline this offer?"
+msgstr ""
+
+#: templates/post-offer/add-media-attachments.php:46
+#: templates/single-offer/task-cart.php:45
+msgid "Attachments"
+msgstr ""
+
+#: templates/single-offer/attachments.php:17
+msgid "Attachments available to download"
+msgstr ""
+
+#: templates/post-offer/add-service-pricing.php:147
+msgid "Characters count"
+msgstr ""
+
+#: templates/post-offer/add-service-pricing.php:122
+msgid "Choose delivery time"
+msgstr ""
+
+#: templates/single-offer/task-cart.php:56
+msgid "Choose package plan:"
+msgstr ""
+
+#: public/partials/functions.php:89
+msgid "Choose task"
+msgstr ""
+
+#: templates/post-offer/add-media-attachments.php:59
+msgid "Click here to upload"
+msgstr ""
+
+#: templates/post-offer/add-offer-introduction.php:141
+msgid "Click “Save & Continue” to add latest changes made by you"
+msgstr ""
+
+#: templates/post-offer/add-service-pricing.php:210
+msgid "Click “Save & Update” to update pricings"
+msgstr ""
+
+#: templates/post-offer/add-media-attachments.php:105
+msgid "Click “Save &amp; Update” to update your media/attachments."
+msgstr ""
+
+#: public/partials/hooks.php:413
+msgid ""
+"Congratulations! You have hired for the task \"{{taskname}}\" {{tasklink}}"
+msgstr ""
+
+#: templates/offers-cart-page.php:64 public/partials/hooks.php:57
+msgid "Custom Offer"
+msgstr ""
+
+#: public/partials/hooks.php:685
+msgid "Customize task offer"
+msgstr ""
+
+#: public/partials/hooks.php:608
+msgid "Customized decline offer request"
+msgstr ""
+
+#: public/partials/hooks.php:593
+msgid "Customized offer decline email"
+msgstr ""
+
+#: public/partials/hooks.php:525
+msgid "Customized offer request"
+msgstr ""
+
+#: admin/class-offers-cpt.php:37 templates/employers-offers-listing.php:31
+#: templates/freelancers-offers-listing.php:38 public/partials/functions.php:116
+msgid "Customized offers"
+msgstr ""
+
+#: templates/employers-offers-listing.php:133
+#: templates/freelancers-offers-listing.php:142
+msgid "Customized price"
+msgstr ""
+
+#: public/partials/functions.php:93
+msgid "Customized pricing"
+msgstr ""
+
+#: helpers/customized-task-offers-emails.php:84
+msgid "Customized task offer decline"
+msgstr ""
+
+#: helpers/customized-task-offers-emails.php:33 public/partials/hooks.php:540
+msgid "Customized task offer request"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Customized task offer will allow the freelancers to select their services and "
+"the employer to create custom offer."
+msgstr ""
+
+#: public/partials/hooks.php:782
+msgid "Custon offer"
+msgstr ""
+
+#: public/partials/hooks.php:712
+msgid "Decline customize task offer by employer"
+msgstr ""
+
+#: public/customized-task-offers-public.php:89
+#: templates/single-offer/price-plan-tabs.php:96
+#: templates/single-offer/price-plan-tabs.php:116
+#: templates/single-offer/price-plan-tabs.php:132
+msgid "Decline offer"
+msgstr ""
+
+#: includes/class-add-offer.php:753
+msgid "Decline reason is required."
+msgstr ""
+
+#: templates/post-offer/add-service-pricing.php:155
+msgid "Default features of task"
+msgstr ""
+
+#: public/partials/hooks.php:190
+msgid "Delivery"
+msgstr ""
+
+#: public/partials/hooks.php:198
+#, php-format
+msgid "Delivery in %s day"
+msgid_plural "Delivery in %s days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: public/partials/hooks.php:180
+msgid "Delivery time"
+msgstr ""
+
+#: templates/post-offer/add-service-pricing.php:118
+msgid "Delivery time:"
+msgstr ""
+
+#: public/partials/ajax-hooks.php:72 templates/single-offer/attachments.php:20
+msgid "Download files"
+msgstr ""
+
+#: public/partials/functions.php:266 public/partials/hooks.php:132
+msgid "Drafted"
+msgstr ""
+
+#: admin/class-offers-cpt.php:46
+msgid "Edit offer"
+msgstr ""
+
+#: public/partials/hooks.php:586 public/partials/hooks.php:654
+msgid "Email contents"
+msgstr ""
+
+#: public/partials/hooks.php:559 public/partials/hooks.php:627
+msgid "Email setting variables"
+msgstr ""
+
+#: public/partials/hooks.php:532
+msgid "Email to employer on custom offer request"
+msgstr ""
+
+#: public/partials/hooks.php:600
+msgid "Email to freelancer on decline offer request"
+msgstr ""
+
+#: public/partials/hooks.php:689 public/partials/hooks.php:716
+msgid "Enable/disable flash message"
+msgstr ""
+
+#: public/partials/hooks.php:688 public/partials/hooks.php:715
+msgid "Enable/disable notification for customize task."
+msgstr ""
+
+#: templates/post-offer/add-service-pricing.php:145
+msgid "Enter description"
+msgstr ""
+
+#: templates/post-offer/add-service-pricing.php:115
+msgid "Enter your offer price"
+msgstr ""
+
+#: templates/offers-cart-page.php:83 public/partials/hooks.php:77
+#: templates/single-offer/price-plan-tabs.php:75
+msgid "Features included"
+msgstr ""
+
+#: templates/employers-offers-listing.php:35
+#: templates/freelancers-offers-listing.php:42
+msgid "Filter by:"
+msgstr ""
+
+#: public/partials/hooks.php:500
+msgid "Go to dashboard"
+msgstr ""
+
+#: public/partials/hooks.php:499
+msgid "Go to task"
+msgstr ""
+
+#: public/partials/hooks.php:568 public/partials/hooks.php:636
+msgid "Greeting"
+msgstr ""
+
+#: public/partials/hooks.php:570
+msgid "Hello {{employer_name}},"
+msgstr ""
+
+#: public/partials/hooks.php:638
+msgid "Hello {{freelancer_name}},"
+msgstr ""
+
+#: public/partials/ajax-hooks.php:18
+msgid "Hire for a task"
+msgstr ""
+
+#: templates/single-offer/task-cart.php:65
+msgid "Hire now"
+msgstr ""
+
+#. URI of the plugin
+msgid ""
+"https://codecanyon.net/item/workreap-a-freelancer-marketplace-wordpress-"
+"plugin/35344021"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://themeforest.net/user/amentotech/portfolio"
+msgstr ""
+
+#: templates/freelancers-offers-listing.php:32
+msgid "Make customized offer"
+msgstr ""
+
+#: templates/post-offer/add-media-attachments.php:55
+msgid "make sure your file size does not exceed 15mb."
+msgstr ""
+
+#: public/partials/functions.php:157
+msgid "Manage tasks"
+msgstr ""
+
+#: public/partials/functions.php:97
+msgid "Media/Attachments"
+msgstr ""
+
+#: public/partials/functions.php:278
+msgid "New"
+msgstr ""
+
+#: admin/class-offers-cpt.php:45
+msgid "New offer"
+msgstr ""
+
+#: templates/employers-offers-listing.php:164
+msgid "No offer received yet"
+msgstr ""
+
+#: public/partials/hooks.php:252 public/partials/hooks.php:262
+msgid "No. of sales"
+msgstr ""
+
+#: public/partials/hooks.php:687 public/partials/hooks.php:714
+msgid "Notification content"
+msgstr ""
+
+#: public/partials/hooks.php:686 public/partials/hooks.php:713
+msgid "Notification setting variables"
+msgstr ""
+
+#: admin/class-offers-cpt.php:38
+msgid "Offer"
+msgstr ""
+
+#: templates/post-offer/add-offer.php:33
+msgid "Offer declined"
+msgstr ""
+
+#: includes/class-add-offer.php:476 includes/class-add-offer.php:716
+msgid "Offer has been updated"
+msgstr ""
+
+#: includes/class-add-offer.php:631
+msgid "Offer has been updated!"
+msgstr ""
+
+#: templates/post-offer/add-service-pricing.php:114
+msgid "Offer price:"
+msgstr ""
+
+#: includes/class-add-offer.php:825 includes/class-add-offer.php:833
+msgid "Offer status has been updated"
+msgstr ""
+
+#: admin/class-offers-cpt.php:39 admin/class-offers-cpt.php:40
+#: admin/class-offers-cpt.php:54 public/partials/functions.php:174
+msgid "Offers"
+msgstr ""
+
+#: includes/class-add-offer.php:480 includes/class-add-offer.php:720
+#: includes/class-add-offer.php:837 public/partials/ajax-hooks.php:100
+msgid "Oops"
+msgstr ""
+
+#: includes/class-add-offer.php:340 includes/class-add-offer.php:523
+#: includes/class-add-offer.php:760
+msgid "Oops!"
+msgstr ""
+
+#: templates/single-offer.php:71
+msgid "Oops! you are not allowed to access this page"
+msgstr ""
+
+#: templates/offers-cart-page.php:22 public/partials/ajax-hooks.php:43
+msgid "Oops! you are not allowed to perfom this action"
+msgstr ""
+
+#: templates/employers-offers-listing.php:166
+msgid "Oopss..!! you have not any offer right now"
+msgstr ""
+
+#: templates/offers-cart-page.php:150
+msgid "Order details"
+msgstr ""
+
+#: admin/class-offers-cpt.php:41
+msgid "Parent offer:"
+msgstr ""
+
+#: public/partials/functions.php:262
+msgid "Pending"
+msgstr ""
+
+#: public/partials/hooks.php:539 public/partials/hooks.php:607
+msgid "Please add email subject."
+msgstr ""
+
+#: public/partials/hooks.php:569 public/partials/hooks.php:637
+msgid "Please add text."
+msgstr ""
+
+#: includes/class-add-offer.php:447
+msgid ""
+"Please don't leave empty custom fields. Either remove this or add the field "
+"title"
+msgstr ""
+
+#: customized-task-offer.php:105
+msgid ""
+"Please install the <a href=\"https://codecanyon.net/item/workreap-a-"
+"freelancer-marketplace-wordpress-plugin/35344021?s_rank=7\">Workreap</a> "
+"parent plugin to use this Workreap - Customized task offers addon"
+msgstr ""
+
+#: includes/class-add-offer.php:672
+msgid "Please select employer."
+msgstr ""
+
+#: includes/class-add-offer.php:671
+msgid "Please select task."
+msgstr ""
+
+#: templates/offers-cart-page.php:194
+msgid "Proceed to secure checkout"
+msgstr ""
+
+#: public/partials/functions.php:270
+msgid "Publish"
+msgstr ""
+
+#: public/partials/hooks.php:124
+msgid "Published"
+msgstr ""
+
+#: templates/freelancers-offers-listing.php:156
+msgid "Re-submit"
+msgstr ""
+
+#: templates/post-offer/add-offer.php:35
+msgid "Reason:"
+msgstr ""
+
+#: public/partials/functions.php:274 public/partials/hooks.php:125
+msgid "Rejected"
+msgstr ""
+
+#: templates/post-offer/add-media-attachments.php:94
+#: templates/post-offer/add-media-attachments.php:119
+msgid "Remove"
+msgstr ""
+
+#: templates/freelancers-offers-listing.php:130
+msgid "Request sent to"
+msgstr ""
+
+#: includes/class-add-offer.php:237 includes/class-add-offer.php:371
+#: includes/class-add-offer.php:508 includes/class-add-offer.php:651
+#: includes/class-add-offer.php:745
+msgid "Restricted Access"
+msgstr ""
+
+#: templates/offers-cart-page.php:22 templates/single-offer.php:71
+msgid "Restricted access"
+msgstr ""
+
+#: templates/post-offer/add-offer-introduction.php:142
+msgid "Save & Continue"
+msgstr ""
+
+#: templates/post-offer/add-service-pricing.php:211
+msgid "Save & Update"
+msgstr ""
+
+#: templates/post-offer/add-media-attachments.php:106
+msgid "Save &amp; Update"
+msgstr ""
+
+#: admin/class-offers-cpt.php:50
+msgid "Search offers"
+msgstr ""
+
+#: templates/post-offer/add-offer-introduction.php:59
+msgid "Select employer"
+msgstr ""
+
+#: templates/post-offer/add-offer-introduction.php:89
+msgid "Select employer:"
+msgstr ""
+
+#: public/partials/functions.php:202
+msgid "Select page for the Add/edit offer"
+msgstr ""
+
+#: templates/post-offer/add-offer-introduction.php:70
+msgid "Select task"
+msgstr ""
+
+#: templates/post-offer/add-offer-introduction.php:67
+msgid "Select task:"
+msgstr ""
+
+#: templates/single-offer/task-cart.php:52
+msgid "Selected service:"
+msgstr ""
+
+#: public/partials/hooks.php:531 public/partials/hooks.php:599
+msgid "Send email"
+msgstr ""
+
+#: includes/class-add-offer.php:751 includes/class-add-offer.php:752
+#: includes/class-add-offer.php:754
+msgid "Something went wrong."
+msgstr ""
+
+#: public/partials/hooks.php:538 public/partials/hooks.php:606
+msgid "Subject"
+msgstr ""
+
+#: templates/offers-cart-page.php:171
+msgid "Subtotal"
+msgstr ""
+
+#: public/partials/hooks.php:289 public/partials/hooks.php:489
+msgid "Summary"
+msgstr ""
+
+#: includes/class-add-offer.php:333
+msgid "Task has been added successfully!"
+msgstr ""
+
+#. Name of the plugin
+msgid "Workreap - Customized task offers addon"
+msgstr ""
+
+#: includes/class-add-offer.php:341
+msgid "There is an error occur while saving into database."
+msgstr ""
+
+#: includes/class-add-offer.php:481 includes/class-add-offer.php:524
+#: includes/class-add-offer.php:721 includes/class-add-offer.php:838
+msgid "There is an error occur, please try again later"
+msgstr ""
+
+#: templates/single-offer/task-cart.php:45
+msgid "Total task budget"
+msgstr ""
+
+#: includes/class-add-offer.php:437 includes/class-add-offer.php:446
+msgid "Uh-Oh!"
+msgstr ""
+
+#: admin/class-offers-cpt.php:47
+msgid "Update offer"
+msgstr ""
+
+#: templates/offers-cart-page.php:178
+msgid "Use my wallet credit"
+msgstr ""
+
+#: templates/post-offer/add-media-attachments.php:92
+#: templates/post-offer/add-media-attachments.php:117
+msgid "View"
+msgstr ""
+
+#: templates/employers-offers-listing.php:147 public/partials/hooks.php:681
+#: public/partials/hooks.php:708
+msgid "View offer"
+msgstr ""
+
+#: admin/class-offers-cpt.php:48 admin/class-offers-cpt.php:49
+msgid "View offers"
+msgstr ""
+
+#: templates/offers-cart-page.php:179
+msgid "Wallet credit will be used during the checkout process"
+msgstr ""
+
+#: includes/class-add-offer.php:332 includes/class-add-offer.php:475
+#: includes/class-add-offer.php:630 includes/class-add-offer.php:715
+#: includes/class-add-offer.php:824 includes/class-add-offer.php:832
+msgid "Woohoo!"
+msgstr ""
+
+#: includes/class-add-offer.php:438
+#, php-format
+msgid "You are allowed to add only %s custom fields"
+msgstr ""
+
+#: includes/class-add-offer.php:746
+msgid "You are not alddlowed to perform this action."
+msgstr ""
+
+#: includes/class-add-offer.php:238 includes/class-add-offer.php:372
+#: includes/class-add-offer.php:509 includes/class-add-offer.php:652
+msgid "You are not allowed to perform this action."
+msgstr ""
+
+#: templates/post-offer/add-media-attachments.php:55
+msgid "You can upload media file format only."
+msgstr ""
+
+#: public/partials/ajax-hooks.php:37
+msgid "You must login as a employer to send a message to this freelancer."
+msgstr ""
+
+#: public/partials/ajax-hooks.php:21
+msgid "You need to login to perfom this action."
+msgstr ""
+
+#: templates/post-offer/add-offer.php:34
+msgid ""
+"Your customized offer has been declined by the employer. You can update the "
+"offer and send it again."
+msgstr ""
+
+#: public/partials/ajax-hooks.php:108
+msgid "Your files have been donwloaded"
+msgstr ""
+
+#: public/partials/ajax-hooks.php:101
+msgid ""
+"Zip library is not installed on the server, please contact to hosting "
+"provider"
+msgstr ""
+
+#: helpers/customized-task-offers-emails.php:86
+msgid ""
+"{{employer_name}} has been decline your custom offer request.<br/>"
+"{{decline_reason}}"
+msgstr ""
+
+#: public/partials/hooks.php:644
+msgid ""
+"{{employer_name}} has been decline your custom request.<br/>  {{decline_reason}}"
+msgstr ""
+
+#: public/partials/hooks.php:613
+msgid ""
+"{{employer_name}} — To display the employer name.<br>\n"
+"                            {{freelancer_name}} — To display the freelancer name.<br>"
+"\n"
+"                            {{offer_title}} — To display the offer title.<br>"
+"\n"
+"                            {{decline_reason}} — To display the offer link."
+"<br>"
+msgstr ""
+
+#: public/partials/hooks.php:545
+msgid ""
+"{{employer_name}} — To display the employer name.<br>\n"
+"                            {{freelancer_name}} — To display the freelancer name.<br>"
+"\n"
+"                            {{offer_title}} — To display the offer title.<br>"
+"\n"
+"                            {{offer_link}} — To display the offer link.<br>"
+msgstr ""
+
+#: public/partials/hooks.php:691
+msgid ""
+"{{freelancer_name}} send you an custom offer.<br/>Please click on the button "
+"below to view the offer <br/> {{offer_link}}"
+msgstr ""
+
+#: helpers/customized-task-offers-emails.php:35 public/partials/hooks.php:576
+msgid ""
+"{{freelancer_name}} send you an custom task offer.<br/>Please click on the "
+"button below to view the offer <br/> {{offer_link}}"
+msgstr ""

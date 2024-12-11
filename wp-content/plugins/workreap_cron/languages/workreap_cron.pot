@@ -1,0 +1,44 @@
+# Copyright (C) 2024 Workreap Cron
+# This file is distributed under the same license as the Workreap Cron package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Workreap Cron 3.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/workreap_cron\n"
+"POT-Creation-Date: 2024-06-27 06:14:28+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: workreap_cron.php:388
+msgid "Job Title"
+msgstr ""
+
+#: workreap_cron.php:389
+msgid "Budget"
+msgstr ""
+
+#: workreap_cron.php:428
+msgid "Send Proposal"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "Workreap Cron"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://themeforest.net/user/amentotech/portfolio"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "This plugin is used for creating cron jobs for Workreap WordPress Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Amentotech"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themeforest.net/user/amentotech"
+msgstr ""
